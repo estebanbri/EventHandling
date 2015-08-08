@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tercera App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoMensaje">Hola</string>
+    <string name="botonTexto">Click me</string>
+</resources>
